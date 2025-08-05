@@ -99,23 +99,23 @@ To get this project running on your computer:
 ## OUTPUT Images
 
 ### Dashboard
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/dashboard.png")
+![Dashboard]("https://github.com/ajaymkoli/Interactive-To-Do-List/assets/dashboard.png")
 
 ### Adding Task
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/addTask.png")
+![Ading Task](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/addTask.png")
 
 ### Dialog Box for confirmation(Delete/Complete)
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/deleteDialogBox.png")
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/completeDialogBox.png")
+![Delete Dialog Box](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/deleteDialogBox.png")
+![Complete Dialog Box](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/completeDialogBox.png")
 
 ### Search Box
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/search.png")
+![Search Box](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/search.png")
 
 ### Filtering the tasks (All/Completed/Active)
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/filterActive.png")
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/filterComplete.png")
+![Filter Active Tasks](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/filterActive.png")
+![Filter Completed Tasks](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/filterComplete.png")
 
 ### Deleting tasks (Completed/All)
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/clearComp-letedDialogBox")
+![Delete Completed Tasks](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/clearComp-letedDialogBox")
 
-![Dashboard](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/deleteAllDialogBox")
+![Delete All Tasks](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/deleteAllDialogBox")
