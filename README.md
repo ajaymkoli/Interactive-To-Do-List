@@ -99,7 +99,7 @@ To get this project running on your computer:
 ## OUTPUT Images
 
 ### Dashboard
-![Dashboard]("https://github.com/ajaymkoli/Interactive-To-Do-List/assets/dashboard.png")
+![Dashboard]("https://github.com/ajaymkoli/Interactive-To-Do-List/blob/tree/main/assets/dashboard.png")
 
 ### Adding Task
 ![Ading Task](image-url "https://github.com/ajaymkoli/Interactive-To-Do-List/assets/addTask.png")
