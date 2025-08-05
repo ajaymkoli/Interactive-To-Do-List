@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supercharged To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>My To-Do List</h1>
+
+        <div class="input-section">
+            <input type="text" id="task-input" placeholder="Add a new task...">
+            <input type="date" id="due-date-input" title="Due Date">
+            <select id="priority-input" title="Priority">
+                <option value="low">Low Priority</option>
+                <option value="medium">Medium Priority</option>
+                <option value="high">High Priority</option>
+            </select>
+            <button id="add-btn">Add</button>
+        </div>
+
+        <div class="controls-section">
+            <input type="text" id="search-input" placeholder="Search tasks...">
+            <div class="filter-buttons">
+                <button id="filter-all" class="active">All</button>
+                <button id="filter-active">Active</button>
+                <button id="filter-completed">Completed</button>
+            </div>
+            <button id="clear-completed-btn">Clear Completed</button>
+            <button id="delete-all-btn">Delete All</button>
+        </div>
+
+        <ul id="task-list">
+            <!-- Tasks rendered dynamically by JavaScript -->
+        </ul>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="confirmation-modal" class="modal-overlay">
+        <div class="modal-content">
+            <p id="modal-message"></p>
+            <div class="modal-buttons">
+                <button id="modal-yes-btn">Yes</button>
+                <button id="modal-no-btn">No</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
