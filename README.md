@@ -102,19 +102,19 @@ To get this project running on your computer:
 ![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/dashboard.png)
 
 ### Adding Task
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/addTask.png")
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/addTask.png)
 
 ### Dialog Box for confirmation(Delete/Complete)
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/deleteDialogBox.png")
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/completeDialogBox.png")
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/deleteDialogBox.png)
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/completeDialogBox.png)
 
 ### Search Box
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/search.png")
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/search.png)
 
 ### Filtering the tasks (All/Completed/Active)
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/filterActive.png")
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/filterComplete.png")
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/filterActive.png)
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/filterComplete.png)
 
 ### Deleting tasks (Completed/All)
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/clearComp-letedDialogBox")
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/deleteAllDialogBox")
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/clearCompletedDialogBox)
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/deleteAllDialogBox)
