@@ -116,5 +116,5 @@ To get this project running on your computer:
 ![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/filterComplete.png)
 
 ### Deleting tasks (Completed/All)
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/clearCompletedDialogBox)
-![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/deleteAllDialogBox)
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/deleteAllDialogBox.png)
+![Dashboard](https://raw.githubusercontent.com/ajaymkoli/Interactive-To-Do-List/main/assets/clearCompletedDialogBox.png)
